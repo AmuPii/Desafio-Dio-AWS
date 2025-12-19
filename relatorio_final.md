@@ -41,11 +41,11 @@ Assinatura do Responsável pelo Projeto:
 
 [lista de documentação]. (imagem meramente ilustrativa)
 
-[Amazon S3 Intelligent-Tiering](https://docs.aws.amazon.com/AmazonS3/latest/userguide/intelligent-tiering-overview.html) <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/d59ba644-1f29-4115-87b1-a22aaaa09703" />
+[Documentação para Amazon S3 Intelligent-Tiering](https://docs.aws.amazon.com/AmazonS3/latest/userguide/intelligent-tiering-overview.html) <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/d59ba644-1f29-4115-87b1-a22aaaa09703" />
 
-[AWS Cost Explorer](https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html)<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/e90c244a-3851-4cc4-b0e0-92337e48333a" />
+[Documentação para AWS Cost Explorer](https://docs.aws.amazon.com/cost-management/latest/userguide/ce-what-is.html)<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/e90c244a-3851-4cc4-b0e0-92337e48333a" />
 
-[AMAZON EC2 Spot Instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html)<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/1fc6b05b-3868-4e50-8772-2b449cd34090" />
+[Documentação para AMAZON EC2 Spot Instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/using-spot-instances.html)<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/1fc6b05b-3868-4e50-8772-2b449cd34090" />
 
 Assinatura do Responsável pelo Projeto:
 
